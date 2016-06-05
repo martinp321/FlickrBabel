@@ -19,7 +19,7 @@ To use:
   - Create an album called show.
   - Make all photos in show private.
   - Add english tags to those photos.
-- Run this.
+- Run via 'python FlickerBabel.py'
 
 Word of caution - please be light on the daily runs of this to prevent annoying people.
 

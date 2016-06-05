@@ -1,4 +1,3 @@
-"""
 FlickrBabel
 -----------
 Given a set of photos with tags, this module will:
@@ -9,8 +8,13 @@ Given a set of photos with tags, this module will:
 
 To use:
 - Install flickrapi and microsofttranslator modules
+  - pip install flickrapi
+  - pip install microsofttranslator
 - Get api keys for flickr and microsofttranslator
-- Fill in those details below.
+  - flickr - https://www.flickr.com/services/apps/create/apply
+  - ms - https://blogs.msdn.microsoft.com/translation/gettingstarted1/
+- Fill those details in the common.py module
+
 - On flickr:
   - Create an album called show.
   - Make all photos in show private.
@@ -18,4 +22,4 @@ To use:
 - Run this.
 
 Word of caution - please be light on the daily runs of this to prevent annoying people.
-"""
+
